@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay06&show_icons=true&theme=great-gatsby)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay06&theme=great-gatsby)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay06&show_icons=true&theme=great-gatsby)
+
