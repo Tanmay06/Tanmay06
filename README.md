@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay06&theme=great-gatsby)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay06&theme=great-gatsby)
 
