@@ -1,7 +1,7 @@
 ### Hello there visitor 👋
 
 💻  Welcome to my sanctum, where I save results of my hard work.🧑‍💻<br>
-🌎  Know more about me and my work @ [tanmay06.github.io](https://tanmay06.github.io).<br>
+🌎  Know more about me and my work @ [tanmayvakare.ml](https://tanmayvakare.ml).<br>
 🌮  Enjoy a taco while you are here.
 <!--
 **Tanmay06/Tanmay06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
