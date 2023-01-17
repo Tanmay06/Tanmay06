@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay06&show_icons=true&theme=great-gatsby)
+![Tanmay's GitHub stats](https://readme-stats.clckblog.space/api?username=Tanmay06&show_icons=true&theme=great-gatsby)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay06&theme=great-gatsby)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay06&theme=great-gatsby&layout=compact)
+![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=Tanmay06&theme=great-gatsby&layout=compact)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> -->
